@@ -1,0 +1,79 @@
+// vim:ts=4:sw=4:et
+{
+    "border": "none",
+    "current_border_width": 0,
+    "floating": "auto_off",
+    "geometry": {
+       "height": 740,
+       "width": 1366,
+       "x": 1920,
+       "y": 1108
+    },
+    "name": "Playlist Songs - Instrumental & Fantasy Bard - Death From Above 1979 - Moonlight (3:11) - Audacious",
+    "percent": 0.5,
+    "swallows": [
+       {
+       // "class": "^Audacious$",
+       // "instance": "^audacious$",
+       // "title": "^Playlist\\ Songs\\ \\-\\ Instrumental\\ \\&\\ Fantasy\\ Bard\\ \\-\\ Death\\ From\\ Above\\ 1979\\ \\-\\ Moonlight\\ \\(3\\:11\\)\\ \\-\\ Audacious$",
+       // "transient_for": "^$"
+       }
+    ],
+    "type": "con"
+}
+
+{
+    // splitv split container with 2 children
+    "border": "none",
+    "floating": "auto_off",
+    "layout": "splitv",
+    "percent": 0.5,
+    "type": "con",
+    "nodes": [
+        {
+            "border": "none",
+            "current_border_width": 0,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 618,
+               "width": 882,
+               "x": 0,
+               "y": 0
+            },
+            "name": " Terminator",
+            "percent": 0.25,
+            "swallows": [
+               {
+               // "class": "^Terminator$",
+               // "instance": "^terminator$",
+               // "title": "^\\ Terminator$",
+               // "transient_for": "^$"
+               }
+            ],
+            "type": "con"
+        },
+        {
+            "border": "none",
+            "current_border_width": 0,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 618,
+               "width": 882,
+               "x": 0,
+               "y": 0
+            },
+            "name": " Terminator",
+            "percent": 0.75,
+            "swallows": [
+               {
+               // "class": "^Terminator$",
+               // "instance": "^terminator$",
+               // "title": "^\\ Terminator$",
+               // "transient_for": "^$"
+               }
+            ],
+            "type": "con"
+        }
+    ]
+}
+

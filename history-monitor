@@ -1,0 +1,5 @@
+
+ rm -f ~/.config/monitors.xml{,.backup}
+ /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-xrandr
+ cinnamon-settings display
+ # Choose optimum setup
